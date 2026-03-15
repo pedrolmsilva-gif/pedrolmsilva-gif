@@ -5,3 +5,5 @@
 -Contato: pedrolmsilva@gmail.com# 
 
 -->
+# Como me encontrar
+(https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:SEU-pedrolmsilvaL@gmail.com) 
